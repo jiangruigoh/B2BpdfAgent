@@ -1,0 +1,44 @@
+mysql:
+    hostname: b2b-mysql01.mysql.database.azure.com
+    username: panda_backup
+    pwd: "95a0c3e835f29e46e41e9c7b8882dd92"
+    port: 3306
+    database_name: ""
+
+bataras:
+    pdf_store_path: "/media/b2b/rexbridge-b2b.com/uploads/bataras/"
+    sql_customer_guid: "1F90F5EF90DF11EA818B000D3AA2CAA9"
+
+bigsupermart:
+    pdf_store_path: "/media/b2b/rexbridge-b2b.com/uploads/bigsupermart/"
+    sql_customer_guid: "403810171FA711EA9BB8E4E7491C3E1E"
+
+ninso:
+    pdf_store_path: "/media/b2b/rexbridge-b2b.com/uploads/ninso"
+    sql_customer_guid: "599348EDCB2F11EA9A81000C29C6CEB2"
+
+tfvaluemart:
+    pdf_store_path: "/media/b2b/rexbridge-b2b.com/uploads/tfvaluemart"
+    sql_customer_guid: "8D5B38E931FA11E79E7E33210BD612D3"
+
+gmart:
+    pdf_store_path: "/media/b2b/rexbridge-b2b.com/uploads/gmart"
+    sql_customer_guid: "907FAFE053F011EB8099063B6ABE2862"
+
+everrise:
+    pdf_store_path: "/media/b2b/rexbridge-b2b.com/uploads/everrise"
+    sql_customer_guid: "D361F8521E1211EAAD7CC8CBB8CC0C93"
+
+mydinpg:
+    pdf_store_path: "/media/b2b/rexbridge-b2b.com/uploads/mydinpg"
+    sql_customer_guid: "E89A971E228611E8AFF0E6516CB93FD9"
+
+cks:
+    pdf_store_path: "/media/b2b/rexbridge-b2b.com/uploads/cks"
+    sql_customer_guid: "B00CA0BE403611EBA2FC000D3AC8DFD7"
+
+
+
+
+
+
